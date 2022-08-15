@@ -1,2 +1,2 @@
 # Linguagem-C
- Meus projetos e exercícios das aulas de linguagem C da universidade
+ Meus projetos e exercícios das aulas de linguagem C durante a universidade.
